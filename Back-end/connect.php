@@ -1,7 +1,8 @@
 <?php
 
-$dsn = "mysql:host=localhost;dbname=u858707266_MerkWaveDB";
-$user = "u858707266_MerkWaveDB";
+
+$dsn = "mysql:host=localhost;dbname=u858707266_DeerfixDB";
+$user = "u858707266_DeerfixDB";
 $pass = "AJ5tbE@zAF2zs6P";
 $option = array(
    PDO::MYSQL_ATTR_INIT_COMMAND => "SET NAMES UTF8"
